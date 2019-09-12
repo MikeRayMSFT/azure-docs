@@ -10,7 +10,7 @@ ms.topic: conceptual
 author: jovanpop-msft
 ms.author: sashan
 ms.reviewer: carlrab, sashan
-ms.date: 06/10/2019
+ms.date: 06/11/2019
 ---
 # High-availability and Azure SQL Database
 
